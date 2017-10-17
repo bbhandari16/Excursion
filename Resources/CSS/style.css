@@ -4,14 +4,28 @@ body{
   background-color: black;
   text-align: center;
 }
-h1{
-    font-size: 50px;
-    text-align: centered;
-}
-span{
-    color: aquamarine;
-    font-size: 16px;
-}
 a:visited{
   color: aquamarine;
  }
+h1{
+    font-size: 50px;
+}
+span a{
+    color: aquamarine;
+    font-size: 16px;
+}
+h2{
+  font-size: 42px;
+  font-weight: 300;
+  display: block;
+  font-weight: bold;
+}
+p{
+  font-size: 21px;
+  color: gray;
+}
+.footer{
+text-align: right;
+color: gray;
+font-size: 21px;
+}
